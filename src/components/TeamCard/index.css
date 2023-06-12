@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.teams-card {
+  border: 2px solid black;
+  display: flex;
+  margin: 5px;
+}
+
+img {
+  height: 130px;
+  width: 130px;
+}
